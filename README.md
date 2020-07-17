@@ -11,7 +11,7 @@
 
 <blockquote>
 <p align="center">
-  最新文章会第一时间在 **公众号** 推送（微信搜一搜 **BOTManJL**）
+  最新文章会第一时间在 <strong>公众号</strong> 推送（微信搜一搜 <strong>BOTManJL</strong>）
 </p>
 </blockquote>
 
